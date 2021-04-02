@@ -1,2 +1,3 @@
 # Project-Kelvin-Weather
-Project Kelvin Weather. Technologies: JavaScript  - Front-End Engineer Career Path.
+Project Kelvin Weather. Technologies: JavaScript 
+Project from Codecademy / PRO - Front-End Engineer Career Path.
